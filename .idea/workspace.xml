@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83b4ede0-aa5e-4f81-982d-6b9d0ce4d3cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataStruct_algo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph traversal and search ( Routing Program to Help Vancouver Commuters)/graph_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph traversal and search ( Routing Program to Help Vancouver Commuters)/landmark_choices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph traversal and search ( Routing Program to Help Vancouver Commuters)/skyroute.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph traversal and search ( Routing Program to Help Vancouver Commuters)/vc_landmarks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph traversal and search ( Routing Program to Help Vancouver Commuters)/vc_metro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack implementation (tower of hanoi)/node.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack implementation (tower of hanoi)/script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack implementation (tower of hanoi)/stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +41,14 @@
     "Python.thbj.executor": "Run",
     "Python.vc_metro.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bigma\Downloads\dataStruct_algo\graph traversal and search ( Routing Program to Help Vancouver Commuters)" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
